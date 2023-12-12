@@ -1,0 +1,7 @@
+.text_icon:hover > a {
+  color: red;
+}
+
+.text_icon:hover > a > svg {
+  fill: red;
+}
