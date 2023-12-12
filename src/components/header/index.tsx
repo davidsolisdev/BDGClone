@@ -27,7 +27,6 @@ function Header() {
   return (
     <div
       className="h-[75px] w-full bg-[#e9e9e9] flex flex-wrap justify-center items-center z-20"
-      data-aos="fade-down"
       style={
         isScrolled
           ? { position: "sticky", top: "0", left: "0", right: "0" }
