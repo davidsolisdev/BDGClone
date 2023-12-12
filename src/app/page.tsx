@@ -11,7 +11,7 @@ import VisionMision from "@/views/visionMision";
 
 export default function Home() {
   return (
-    <main className="flex flex-wrap justify-center">
+    <main className="flex flex-wrap justify-center overflow-x-hidden">
       <AosInit />
       <section
         className="bg-[#b2b2b2] h-[55px] w-full flex justify-center"
