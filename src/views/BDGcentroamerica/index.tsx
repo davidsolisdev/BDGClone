@@ -8,7 +8,7 @@ function BDGCentroamerica() {
   return (
     <section className="w-[1200px] pt-[70px] flex flex-wrap justify-center">
       <h2
-        className="font-bold text-5xl max-[600px]:text-4xl"
+        className="font-bold text-5xl max-[600px]:text-4xl max-[500px]:text-3xl"
         data-aos="fade-up"
       >
         BDG CENTROAMÉRICA
